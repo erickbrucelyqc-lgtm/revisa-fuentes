@@ -1,0 +1,8 @@
+{
+  "answer": "Python dispone de documentación oficial [1]. El formato JSON está documentado por el IETF [2]. Esta frase usa una referencia ausente [9].",
+  "sources": [
+    {"id": 1, "url": "https://docs.python.org/3/"},
+    {"id": 2, "url": "https://www.rfc-editor.org/rfc/rfc8259"},
+    {"id": 3, "url": "https://example.org/unused"}
+  ]
+}

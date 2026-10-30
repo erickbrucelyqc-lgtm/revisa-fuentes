@@ -1,3 +1,22 @@
+<!-- ERICK-LAB-INTRO -->
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Citation Audit — Erick Quio" /></p>
+
+# Citation Audit · Erick Quio
+
+**Auditor offline de referencias numeradas y cobertura estructural de citas.**
+
+Este repositorio es un fork de [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane). Se conservan los autores y las licencias originales. El aporte local es una demo o herramienta independiente; no equivale a una contribución aceptada por upstream.
+
+### Empieza aquí
+
+- [Demo, ejecución y pruebas](ERICK_LAB.md)
+- [Cambios respecto al original](https://github.com/ItzCrazyKns/Vane/compare/master...erickbrucelyqc-lgtm:vane-research-lab:master)
+- [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
+
+---
+
+## Documentación del proyecto original
+
 # Vane 🔍
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Vane?style=social)](https://github.com/ItzCrazyKns/Vane/stargazers)
