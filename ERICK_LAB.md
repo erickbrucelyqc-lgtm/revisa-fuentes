@@ -1,4 +1,4 @@
-# Citation Audit · Erick Quio
+# Revisa fuentes · Erick Quio
 
 **Auditor offline de referencias numeradas.** Fork de
 [Vane](https://github.com/ItzCrazyKns/Vane), anteriormente Perplexica, con licencia MIT.

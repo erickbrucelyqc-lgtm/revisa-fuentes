@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
-<title id="title">CITATION AUDIT — Erick Quio</title>
+<title id="title">REVISA FUENTES — Erick Quio</title>
 <desc id="desc">Project cover illustration. RESEARCH TOOLS / REFERENCE CHECKS. A local adaptation of an upstream project.</desc>
 <defs><linearGradient id="glow" x2="1" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width=".5"/></pattern></defs>
@@ -7,7 +7,7 @@
 <rect x="1" y="1" width="958" height="298" rx="19" fill="none" stroke="#30363d"/>
 <rect x="34" y="38" width="5" height="220" rx="2" fill="url(#glow)"/>
 <g font-family="Arial,Helvetica,sans-serif"><text x="58" y="62" fill="#a78bfa" font-size="12" letter-spacing="3">ERICK QUIO / DEVELOPER LAB</text>
-<text x="58" y="132" fill="#f0f6fc" font-size="44" font-weight="700">CITATION AUDIT</text>
+<text x="58" y="132" fill="#f0f6fc" font-size="44" font-weight="700">REVISA FUENTES</text>
 <text x="58" y="170" fill="#aab6c5" font-size="13" letter-spacing="1">RESEARCH TOOLS / REFERENCE CHECKS</text>
 <rect x="58" y="211" width="184" height="28" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="76" y="230" fill="#a78bfa" font-size="11" letter-spacing="1">FORK + LOCAL ADAPTATION</text>

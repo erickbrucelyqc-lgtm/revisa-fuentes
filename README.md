@@ -1,7 +1,7 @@
 <!-- ERICK-LAB-INTRO -->
-<p align="center"><img src="erick_cover.svg" width="100%" alt="Citation Audit — Erick Quio" /></p>
+<p align="center"><img src="erick_cover.svg" width="100%" alt="Revisa fuentes — Erick Quio" /></p>
 
-# Citation Audit · Erick Quio
+# Revisa fuentes · Erick Quio
 
 **Auditor offline de referencias numeradas y cobertura estructural de citas.**
 
