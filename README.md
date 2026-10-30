@@ -10,7 +10,7 @@ Este repositorio es un fork de [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns
 ### Empieza aquí
 
 - [Demo, ejecución y pruebas](ERICK_LAB.md)
-- [Cambios respecto al original](https://github.com/ItzCrazyKns/Vane/compare/master...erickbrucelyqc-lgtm:vane-research-lab:master)
+- [Cambios respecto al original](https://github.com/ItzCrazyKns/Vane/compare/master...erickbrucelyqc-lgtm:revisa-fuentes:master)
 - [Perfil del desarrollador](https://github.com/erickbrucelyqc-lgtm)
 
 ---
